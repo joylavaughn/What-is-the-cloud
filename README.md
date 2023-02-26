@@ -3,7 +3,7 @@
 </p>
 
 <h1>What Exactly is Azure and the Cloud?</h1>
-Microsoft Azure, often referred to as Azure, is a cloud computing platform operated by Microsoft that provides access, management, and development of applications and services via around the world-distributed data centers.
+Microsoft Azure, often referred to as Azure, is a cloud computing platform operated by Microsoft that provides access, management, and development of applications and services via around the world-distributed data centers. "The cloud" is literally a platform that will let you rent space in order to store or process your own data.
 
 
 <h2>Environments and Technologies Used</h2>
@@ -23,8 +23,6 @@ Microsoft Azure, often referred to as Azure, is a cloud computing platform opera
 
 - 1: Azure Terminology
 - 2: Azure Resources
-- 3: 
-- 4:
 
 <h2>Actions and Observations</h2>
 
