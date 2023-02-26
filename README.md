@@ -19,12 +19,12 @@ Microsoft Azure, often referred to as Azure, is a cloud computing platform opera
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
-<h2>High-Level Steps</h2>
+<h2>Fundamentals</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- 1: Azure Terminology
+- 2: Azure Resources
+- 3: 
+- 4:
 
 <h2>Actions and Observations</h2>
 
