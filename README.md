@@ -22,10 +22,10 @@ Microsoft Azure, often referred to as Azure, is a cloud computing platform opera
 - 4: Azure Terminology
 
 
-<h2>Actions and Observations</h2>
+<h2>Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/54s2nox.png"/>
+<img src="https://i.imgur.com/PohM215.png"/>
 </p>
 <p>
 Here are a few examples of free services you’re likely familiar with: Gmail, Google Docs/ Google Drive/ Dropbox & iCloud. 
@@ -35,7 +35,7 @@ Many businesses do not want to rely on hardware that is costly and thereby want 
 <br />
 
 <p>
-<img src="https://i.imgur.com/nA1ifEY.png"/>
+<img src="https://i.imgur.com/gegNeFv.png"/>
 </p>
 <p>
 Other Paid Cloud Providers would be: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Provider (GCP), Oracle Cloud Infrastructure, IBM Cloud. As seen in this picture are the 2023 Top 10 Cloud Service Providers. Cloud computing has brought fundamental changes to IT infrastructure globally. 
@@ -43,9 +43,9 @@ Other Paid Cloud Providers would be: Microsoft Azure, Amazon Web Services (AWS),
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o0BMcD5.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In Azure, a resource is an entity managed by Azure. Virtual machines, virtual networks, and storage accounts are all examples of Azure resources. It's helpful to know a few basic definitions as you begin your Azure cloud adoption journey: Subscription: A logical container for your resources. Each Azure resource is associated with only one subscription. Creating a subscription is the first step in adopting Azure. Azure account: The email address that you provide when you create an Azure subscription is the Azure account for the subscription. The party that's associated with the email account is responsible for the monthly costs incurred by the resources in the subscription. When you create an Azure account, you provide contact information and billing details, like a credit card. You can use the same Azure account for multiple subscriptions. Each subscription is associated with only one Azure account.
 </p>
 <br />
